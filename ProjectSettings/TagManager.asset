@@ -13,7 +13,7 @@ TagManager:
   - UI
   - Player
   - Enemies
-  - 
+  - Props
   - 
   - 
   - 
@@ -40,4 +40,28 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Gorund
+    uniqueID: 3313080807
+    locked: 0
+  - name: Ground Decoration, Holes
+    uniqueID: 3006926417
+    locked: 0
+  - name: Ground Shadow
+    uniqueID: 2383589493
+    locked: 0
+  - name: Walls
+    uniqueID: 589567915
+    locked: 0
+  - name: Walls Decoration
+    uniqueID: 4116240737
+    locked: 0
+  - name: Walls Shadow
+    uniqueID: 563191085
+    locked: 0
+  - name: Characters, Props, Prop Shadows
+    uniqueID: 50448975
+    locked: 0
+  - name: Above (DoorwayTop)
+    uniqueID: 3361653021
     locked: 0
